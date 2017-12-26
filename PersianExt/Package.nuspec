@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PersianExt</id>
+    <version>1.0.0</version>
+    <authors>BehnamFarnoushfar</authors>
+    <owners>BehnamFarnoushfar</owners>
+    <licenseUrl>https://github.com/behnamfarnoushfar/PersianExt</licenseUrl>
+    <projectUrl>https://github.com/behnamfarnoushfar/PersianExt</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A set of usefull extension method while programming persian stuff.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Persian Extension DateTime Shamsi Gregorian PersianNumbers DataTableToList ListToDataTable</tags>
+  </metadata>
+</package>
