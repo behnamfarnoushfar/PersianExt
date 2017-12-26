@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianExt", "PersianExt\PersianExt.csproj", "{CD518708-85AC-4AD8-925B-EEA3935439BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianExt", "PersianExt\PersianExt.csproj", "{8AB10D48-A63E-4AFF-BD24-4B32218B8F4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD518708-85AC-4AD8-925B-EEA3935439BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD518708-85AC-4AD8-925B-EEA3935439BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD518708-85AC-4AD8-925B-EEA3935439BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD518708-85AC-4AD8-925B-EEA3935439BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB10D48-A63E-4AFF-BD24-4B32218B8F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB10D48-A63E-4AFF-BD24-4B32218B8F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB10D48-A63E-4AFF-BD24-4B32218B8F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB10D48-A63E-4AFF-BD24-4B32218B8F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
